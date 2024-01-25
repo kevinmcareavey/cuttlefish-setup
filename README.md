@@ -1,5 +1,5 @@
 # cuttlefish-setup
-Central repository for Cuttlefish home scheduler web application
+Documentation for Cuttlefish home scheduler web application
 
 | Repository | Description | Implementation |
 | --- | --- | --- |
