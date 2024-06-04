@@ -1,0 +1,10 @@
+[Unit]
+Description=Cuttlefish backend service
+
+[Service]
+ExecStart=/path/to/cuttlefish-backend /path/to/config.toml
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
