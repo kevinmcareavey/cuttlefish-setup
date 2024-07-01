@@ -2,7 +2,7 @@
 Description=Cuttlefish API service
 
 [Service]
-ExecStart=/path/to/python3 /path/to/cuttlefish-api/main.py /path/to/config.toml
+ExecStart=/path/to/cuttlefish-api /path/to/config.toml
 Restart=always
 RestartSec=5
 
